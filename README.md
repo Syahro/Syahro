@@ -1,9 +1,5 @@
 ### Hi there, I'm Arief Syahroni 👋
-
-<!--
-**Syahro/Syahro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+You can call me Arief or Roni.
 
 - 🔭 I’m currently working on one of the Bigest Telecomunication Company in Indonesia.
 - 🌱 I’m currently learning Flutter, Machine Learning, Data Analyst and Data Scientist.
